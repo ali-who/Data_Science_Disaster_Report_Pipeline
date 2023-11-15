@@ -1,4 +1,4 @@
-# Data_Science_Disaster_Report_Pipeline
+# Data Science Disaster Report Pipeline
 ## Project Overview
 In this project, I've learned and built on my data engineering skills to expand my opportunities and potential as a data scientist. In this project, I will apply these skills to analyze disaster data from Appen (formally Figure 8) to build a model for an API that classifies disaster messages.
 
